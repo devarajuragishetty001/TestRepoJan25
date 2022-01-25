@@ -5,7 +5,7 @@
 		"annotations": [],
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://TEST-AKV-BLOB.vault.azure.net/"
+			"baseUrl": "https://TES-KEY-VAULT-JAN25.vault.azure.net/"
 		}
 	}
 }
