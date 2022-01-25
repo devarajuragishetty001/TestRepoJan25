@@ -9,7 +9,10 @@
 		"type": "Excel",
 		"typeProperties": {
 			"location": {
-				"type": "AzureBlobStorageLocation"
+				"type": "AzureBlobStorageLocation",
+				"fileName": "SREC_Friends.csv",
+				"folderPath": "Friends",
+				"container": "containertestjan24"
 			}
 		},
 		"schema": []
