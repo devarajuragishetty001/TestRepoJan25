@@ -1,5 +1,13 @@
 {
 	"name": "testdf2-anil25",
+	"properties": {
+		"globalParameters": {
+			"Test_Global_Parameter": {
+				"type": "string",
+				"value": "462"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
