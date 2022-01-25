@@ -1,0 +1,9 @@
+{
+	"name": "testdf2-anil25",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45e74b0d-c92a-4e6d-bedd-8362bca41798",
+		"tenantId": "920fd0d1-78b6-4fc1-b399-2759ae6bb479"
+	}
+}
