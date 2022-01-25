@@ -1,0 +1,20 @@
+{
+	"name": "Test_DS_EXCEL",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "SREC_Friends.csv",
+				"folderPath": "Friends",
+				"container": "containertestjan24"
+			}
+		},
+		"schema": []
+	}
+}
