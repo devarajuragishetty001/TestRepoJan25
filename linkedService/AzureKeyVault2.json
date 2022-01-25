@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVault2",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://TES-KEY-VAULT-JAN25.vault.azure.net/"
+		}
+	}
+}
